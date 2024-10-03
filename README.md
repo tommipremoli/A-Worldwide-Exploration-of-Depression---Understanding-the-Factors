@@ -1,2 +1,2 @@
-# Report---A-Worldwide-Exploration-of-Depression---Understanding-the-Factors
-This project analyzes the global determinants of mental health and depression using clustering and regression models. Key factors such as anxiety, unemployment, and alcohol consumption are examined to identify patterns among countries and guide targeted interventions for improving mental well-being.
+# A-Worldwide-Exploration-of-Depression---Understanding-the-Factors
+This project analyzes global mental health and depression through clustering and regression models, focusing on socio-economic and health factors. Key variables like anxiety, unemployment, and alcohol consumption were found to influence depression rates. Conclusions highlight distinct country clusters, showing that high economic development doesn't guarantee better mental health, with issues like anxiety and bipolarism prevalent in wealthier nations, while depression is more common in lower-income countries.
